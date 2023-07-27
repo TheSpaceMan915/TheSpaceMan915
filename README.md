@@ -1,8 +1,10 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Hi%20there!&fontSize=90)
 
-# Let's connect and have a chat!![chat icon](https://cdn3.iconfinder.com/data/icons/linecons-free-vector-icons-pack/32/bubble-512.png)
+<img src="https://cdn3.iconfinder.com/data/icons/linecons-free-vector-icons-pack/32/bubble-512.png" width="48">
 
 <!-- ### Hi there 👋
+
+# Let's connect and have a chat!![chat icon](https://cdn3.iconfinder.com/data/icons/linecons-free-vector-icons-pack/32/bubble-512.png)
 
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=TheSpaceMan915&theme=dark&background=000000)](https://git.io/streak-stats)<br>
