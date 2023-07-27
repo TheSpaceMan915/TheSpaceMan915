@@ -9,10 +9,10 @@
   <img src="https://user-images.githubusercontent.com/46517096/166974368-9798f39f-1f46-499c-b14e-81f0a3f83a06.png" height="50" class="center"/>
 </a>
 <a href="https://twitter.com/NikitaKolychev">
-  <img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Twitter3_colored_svg-512.png" height="50" class="center/>
+  <img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Twitter3_colored_svg-512.png" height="50" class="center"/>
 </a>
 <a href="https://www.facebook.com/nikita.kolychev.5/">
-  <img src="https://cdn1.iconfinder.com/data/icons/social-media-2285/512/Colored_Facebook3_svg-512.png" height="50" class="center/>
+  <img src="https://cdn1.iconfinder.com/data/icons/social-media-2285/512/Colored_Facebook3_svg-512.png" height="50" class="center"/>
 </a>
 
 
