@@ -5,6 +5,7 @@
   <img src="https://cdn3.iconfinder.com/data/icons/linecons-free-vector-icons-pack/32/bubble-512.png" height="25" width="25">
 </h1>
 
+<p align="center">
 <a href="https://www.instagram.com/nikitakolychev/">
   <img src="https://user-images.githubusercontent.com/46517096/166974368-9798f39f-1f46-499c-b14e-81f0a3f83a06.png" height="50"/>
 </a>
@@ -14,6 +15,8 @@
 <a href="https://www.facebook.com/nikita.kolychev.5/">
   <img src="https://cdn1.iconfinder.com/data/icons/social-media-2285/512/Colored_Facebook3_svg-512.png" height="50"/>
 </a>
+</p>
+
 
 
 <!-- ### Hi there 👋
