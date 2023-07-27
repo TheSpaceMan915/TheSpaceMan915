@@ -18,7 +18,7 @@
 </p>
 
 <p align="center">
-  <img src= "https://i.giphy.com/media/q217GUnfKAmJlFcjBX/giphy.webp">
+  <img src= "http://mathematica.stackexchange.com/questions/20557/playing-with-matrix...">
 </p>
 
 
