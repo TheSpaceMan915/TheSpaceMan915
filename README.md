@@ -1,5 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Hi%20there!&fontSize=90)
 
+# Let's connect and have a chat!![chat icon](https://cdn3.iconfinder.com/data/icons/linecons-free-vector-icons-pack/32/bubble-512.png)
+
 <!-- ### Hi there 👋
 
 ### :fire: My Stats :
