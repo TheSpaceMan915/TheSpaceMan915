@@ -18,7 +18,7 @@
 </p>
 
 <p align="center">
-  <img src="https://giphy.com/gifs/witchergame-witcher-3-cdpred-wild-hunt-Vd3MpH44gKBT2O5YGb"/>
+  <img src="https://media4.giphy.com/media/Vd3MpH44gKBT2O5YGb/giphy.gif?cid=ecf05e47stk0pymnawk4vmhjj1zt21shigelq4mhvpf4gcmo&ep=v1_gifs_search&rid=giphy.gif&ct=g"/>
 </p>
 
 
