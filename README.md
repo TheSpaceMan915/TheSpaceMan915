@@ -1,5 +1,12 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Hi%20there!&fontSize=90)
 
+.center {
+  border: 5px solid;
+  margin: auto;
+  width: 50%;
+  padding: 10px;
+}
+
 <h1 align="center">
   Let's connect and have a chat!
   <img src="https://cdn3.iconfinder.com/data/icons/linecons-free-vector-icons-pack/32/bubble-512.png" height="25" width="25">
