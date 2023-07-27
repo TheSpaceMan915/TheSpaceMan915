@@ -18,7 +18,7 @@
 </p>
 
 <p align="center">
-  <img src="https://giphy.com/gifs/matrix-BW51OCstarPBm/fullscreen"/>
+  <img src="https://giphy.com/gifs/witchergame-witcher-3-cdpred-wild-hunt-Vd3MpH44gKBT2O5YGb"/>
 </p>
 
 
