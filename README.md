@@ -1,6 +1,9 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Hi%20there!&fontSize=90)
 
-<img src="https://cdn3.iconfinder.com/data/icons/linecons-free-vector-icons-pack/32/bubble-512.png" width="48">
+<h1>
+  Let's connect and have a chat!
+  <img src="https://cdn3.iconfinder.com/data/icons/linecons-free-vector-icons-pack/32/bubble-512.png" height="30" width="30">
+</h1>
 
 <!-- ### Hi there 👋
 
