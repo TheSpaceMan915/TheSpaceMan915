@@ -18,7 +18,7 @@
 </p>
 
 <p align="center">
-  <img src="https://giphy.com/gifs/matrix-BW51OCstarPBm/fullscreen">
+  <img src="https://giphy.com/gifs/matrix-BW51OCstarPBm/fullscreen"/>
 </p>
 
 
