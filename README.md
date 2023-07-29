@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Hi%20there!&fontSize=90)
 
 <h1 align="center">
-  Let's connect and have a chat!
+  Let's Connect and Have a Chat!
   <img src="https://cdn3.iconfinder.com/data/icons/linecons-free-vector-icons-pack/32/bubble-512.png" height="25" width="25">
 </h1>
 
@@ -21,7 +21,45 @@
   <img src="https://media4.giphy.com/media/Vd3MpH44gKBT2O5YGb/giphy.gif?cid=ecf05e47stk0pymnawk4vmhjj1zt21shigelq4mhvpf4gcmo&ep=v1_gifs_search&rid=giphy.gif&ct=g"/>
 </p>
 
+<h2 align="center">A Little Bit About Me</h2>
+```yaml
+name: Kolychev Nikita
 
+located_in: Rostov-on-Don, Russia
+
+company: ?
+
+current_job: Junior Software Engineer
+
+education:
+  [
+    "Master's Degree in ?",
+    "Postgraduate Diploma in Artificial Intelligence and Machine Learning",
+    "Bachelor's Degree in Software Engineering",
+    "Associate's Degree in Information Security"
+  ]
+
+technical_background:
+  [
+    "Intern - Software Engineer",
+    "Intern - Information Security"
+  ]
+
+fields_of_interests:
+  [
+    "Backend Development",
+    "Data Science",
+    "Machine Learning"
+    ]
+
+<!-- 
+currently_learning: ["Docker, Kubernetes and React Native"]
+
+hobbies: ["Gaming", "Cinema", "Skateboarding", "Art", "Comedy"]
+
+2023 Goals: ["Create 20+ Projects and learn at least 5 new Technologies."]
+-->
+```
 
 <!-- ### Hi there 👋
 
