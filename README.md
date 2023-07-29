@@ -82,6 +82,7 @@ hobbies:
         <td>CI/CD</td>
         <td>
             <a href=""><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40"/></a>
+            <a href=""><<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" width="40" height="40"/></a>
         </td>
   </tr>
 </table>
