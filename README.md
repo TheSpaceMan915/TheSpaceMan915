@@ -23,7 +23,7 @@
 
 ---
 
-<h2 align="center">👨🏻‍💻 A Little Bit About Me and My Interests</h2>
+<h2>👨🏻‍💻 &nbsp;A Little Bit About Me and My Interests</h2>
 
 ```yaml
 name: Kolychev Nikita
@@ -74,6 +74,14 @@ hobbies:
   ]
 ```
 ---
+
+<h2>🚀 &nbsp;Tools I Have Used and Learned</h2>
+
+<h3>Languages</h3>
+<p>A language icon</p>
+
+---
+
 
 <!-- ### Hi there 👋
 
