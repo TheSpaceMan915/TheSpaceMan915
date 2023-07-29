@@ -30,7 +30,7 @@ name: Kolychev Nikita
 
 located_in: Australia, Sydney
 
-company: The League of Extraordinary Gentlemen
+company: SpaceMan Cooperation
 
 current_job: Junior Software Engineer
 
