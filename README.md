@@ -77,8 +77,14 @@ hobbies:
 
 <h2>🚀 &nbsp;Tools I Have Used and Learned</h2>
 
-<h3>Languages</h3>
-<p>A language icon</p>
+<table>
+   <tr>
+        <td>CI/CD</td>
+        <td>
+            <a href=""><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40"/></a>
+        </td>
+  </tr>
+</table>
 
 ---
 
