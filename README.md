@@ -52,14 +52,26 @@ fields_of_interests:
   [
     "Backend Development",
     "Data Science",
-    "Machine Learning"
-    ]
+    "Machine Learning",
+    "DevOps"
+  ]
  
-currently_learning: ["Docker, Kubernetes and React Native"]
+currently_learning: ["Spring", "Docker"]
 
-hobbies: ["Gaming", "Cinema", "Skateboarding", "Art", "Comedy"]
+2023 goals:
+  [
+    "Create the Foundation of a New Project,
+    "Lear more about OS-level Virtualization"
+  ]
 
-2023 Goals: ["Create 20+ Projects and learn at least 5 new Technologies."]
+hobbies:
+  [
+    "Learning Foreign Languages",
+    "Reading",
+    "Listening to Reggae Music",
+    "Listening to Podcasts",
+    "Calisthenics"
+  ]
 ```
 ---
 
