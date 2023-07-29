@@ -26,7 +26,7 @@
 ```yaml
 name: Kolychev Nikita
 
-located_in: Rostov-on-Don, Russia
+located_in: Australia, Sydney
 
 company: ?
 
