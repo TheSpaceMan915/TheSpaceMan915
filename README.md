@@ -90,6 +90,7 @@ hobbies:
       <a href=""><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/></a>
       <a href=""><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40" height="40"/></a>
       <a href=""><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/></a>
+      <a href=""><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/></a>
     </td>
   </tr>
   <tr>
@@ -107,6 +108,12 @@ hobbies:
       <a href=""><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40"/></a>
     </td>
   </tr>
+<!--   <tr>
+    <td>Testing</td>
+    <td>
+      <a href=""><img src="" width="40" height="40"/></a>
+    </td>
+  </tr> -->
     <tr>
     <td>IDEs</td>
     <td>
@@ -128,7 +135,9 @@ hobbies:
 
 <!-- ### Hi there 👋
 
-                              
+<a href=""><img src="" width="40" height="40"/></a>
+
+                                        
 
 # Let's connect and have a chat!![chat icon](https://cdn3.iconfinder.com/data/icons/linecons-free-vector-icons-pack/32/bubble-512.png)
 
