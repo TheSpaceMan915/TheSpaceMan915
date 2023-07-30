@@ -75,7 +75,7 @@ hobbies:
 ```
 ---
 
-<h2>🚀 &nbsp;Tools I Have Used and Learned</h2>
+<h2>🚀 &nbsp;Some Tools I Have Used and Learned</h2>
 
 <table>
    <tr>
