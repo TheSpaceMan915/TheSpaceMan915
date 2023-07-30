@@ -100,7 +100,7 @@ hobbies:
     </td>
   </tr>
   <tr>
-    <td>Databases/Datastore</td>
+    <td>Databases/Datastores</td>
     <td>
       <a href=""><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40"/></a>
     </td>
