@@ -83,10 +83,18 @@ hobbies:
         <td>
             <a href=""><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40"/></a>
         </td>
+  </tr>
+  <tr>
         <td>Programming/Backend</td>
         <td>
             <a href=""><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="40" height="40"/></a>
         </td>
+  </tr>
+  <tr>
+    <td>Databases/Datastore</td>
+    <td>
+      ddww
+    </td>
   </tr>
 </table>
 
