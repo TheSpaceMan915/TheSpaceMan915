@@ -133,6 +133,10 @@ hobbies:
 
 ---
 
+<h2>📈 &nbsp;My GitHub Stats</h2>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=TheSpaceMan915&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
+
 <!-- ### Hi there 👋
 
 <a href=""><img src="" width="40" height="40"/></a>
