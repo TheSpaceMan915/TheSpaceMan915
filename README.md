@@ -133,9 +133,17 @@ hobbies:
 
 ---
 
-<h2>📈 &nbsp;My GitHub Stats</h2>
+<h2>🏆 &nbsp;My Trophies</h2>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=TheSpaceMan915&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
+
+---
+
+<h2>📈 &nbsp;My Stats</h2>
+
+<p align="left"><img src="https://github-readme-streak-stats.herokuapp.com/?user=TheSpaceMan915"/></p>
+<p align="right">Languages</p>
+
 
 <!-- ### Hi there 👋
 
