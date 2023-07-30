@@ -21,8 +21,6 @@
   <img src="https://media4.giphy.com/media/Vd3MpH44gKBT2O5YGb/giphy.gif?cid=ecf05e47stk0pymnawk4vmhjj1zt21shigelq4mhvpf4gcmo&ep=v1_gifs_search&rid=giphy.gif&ct=g"/>
 </p>
 
----
-
 <h2>👨🏻‍💻 &nbsp;A Little Bit About Me and My Interests</h2>
 
 ```yaml
@@ -73,7 +71,6 @@ hobbies:
     "Calisthenics"
   ]
 ```
----
 
 <h2>🚀 &nbsp;Some Tools I Have Used and Learned</h2>
 
@@ -131,18 +128,14 @@ hobbies:
   </tr>
 </table>
 
----
-
 <h2>🏆 &nbsp;My Trophies</h2>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=TheSpaceMan915&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
 
----
-
 <h2>📈 &nbsp;My Stats</h2>
 
 <p align="left"><img src="https://github-readme-streak-stats.herokuapp.com/?user=TheSpaceMan915"/></p>
-<p align="right">Languages</p>
+<p align="right"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheSpaceMan915&hide=jupyter notebook"/</p>
 
 
 <!-- ### Hi there 👋
