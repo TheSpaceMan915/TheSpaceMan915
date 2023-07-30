@@ -134,8 +134,10 @@ hobbies:
 
 <h2>📈 &nbsp;My Stats</h2>
 
-<p align="left"><img src="https://github-readme-streak-stats.herokuapp.com/?user=TheSpaceMan915"/></p>
-<p align="right"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheSpaceMan915&layout=compact&hide=jupyter%20notebook"/</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TheSpaceMan915"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheSpaceMan915&layout=compact&hide=jupyter%20notebook"/>
+</p>
 
 
 <!-- ### Hi there 👋
