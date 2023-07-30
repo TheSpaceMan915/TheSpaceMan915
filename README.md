@@ -134,7 +134,7 @@ hobbies:
 
 <h2>📈 &nbsp;My Stats</h2>
 
-<p align="left" style="margin-left:15;">
+<p align="left" style="margin:15;">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=TheSpaceMan915"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheSpaceMan915&layout=compact&hide=jupyter%20notebook"/>
 </p>
