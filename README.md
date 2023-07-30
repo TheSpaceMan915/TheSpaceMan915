@@ -142,9 +142,6 @@ hobbies:
   <img src="https://github-readme-stats.vercel.app/api?username=TheSpaceMan915&count_private=true&show_icons=true"/>
 </p>
 
-### Snake
-![Snake animation](https://github.com/TheSpaceMan915/TheSpaceMan915/blob/output/github-contribution-grid-snake.svg)
-
 <!-- ### Hi there 👋
 
 <a href=""><img src="" width="40" height="40"/></a>
