@@ -79,21 +79,47 @@ hobbies:
 
 <table>
    <tr>
-        <td>CI/CD</td>
-        <td>
-            <a href=""><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40"/></a>
-        </td>
+     <td>CI/CD</td>
+     <td>
+       <a href=""><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40"/></a>
+     </td>
   </tr>
   <tr>
-        <td>Programming/Backend</td>
-        <td>
-            <a href=""><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/></a>
-        </td>
+    <td>Programming/Backend</td>
+    <td>
+      <a href=""><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/></a>
+      <a href=""><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40" height="40"/></a>
+      <a href=""><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/></a>
+    </td>
+  </tr>
+  <tr>
+    <td>Data Science</td>
+    <td>
+      <a href=""><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="40" height="40"/></a>
+      <a href=""><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40" height="40"/></a>
+      <a href=""><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40" height="40"/></a>
+      <a href=""><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="40" height="40"/></a>
+    </td>
   </tr>
   <tr>
     <td>Databases/Datastore</td>
     <td>
-      ddww
+      <a href=""><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40"/></a>
+    </td>
+  </tr>
+    <tr>
+    <td>IDEs</td>
+    <td>
+      <a href=""><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width="40" height="40"/></a>
+      <a href=""><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" width="40" height="40"/></a>
+      <a href=""><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40"/></a>
+    </td>
+  </tr>
+    <tr>
+    <td>Others/Misc</td>
+    <td>
+      <a href=""><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tomcat/tomcat-original.svg" width="40" height="40"/></a>
+      <a href=""><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/></a>
     </td>
   </tr>
 </table>
@@ -101,6 +127,8 @@ hobbies:
 ---
 
 <!-- ### Hi there 👋
+
+                              
 
 # Let's connect and have a chat!![chat icon](https://cdn3.iconfinder.com/data/icons/linecons-free-vector-icons-pack/32/bubble-512.png)
 
