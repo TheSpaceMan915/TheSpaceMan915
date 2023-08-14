@@ -136,7 +136,7 @@ hobbies:
 
 <p>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=TheSpaceMan915"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheSpaceMan915&layout=compact&hide=jupyter%20notebook,html,css"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheSpaceMan915&layout=compact&hide=jupyter%20notebook,html,css,c%20#"/>
 </p>
 <p>
   <img src="https://github-readme-stats.vercel.app/api?username=TheSpaceMan915&count_private=true&show_icons=true"/>
