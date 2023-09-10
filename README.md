@@ -54,12 +54,13 @@ fields_of_interests:
     "DevOps"
   ]
  
-currently_learning: ["Spring", "Docker"]
+currently_learning: ["Spring", "Docker", "Bash"]
 
 2023 goals:
   [
     "Create the Foundation of a New Project,
-    "Lear more about OS-level Virtualization"
+    "Learn more about OS-level Virtualization",
+    "Learn basic bash commands"
   ]
 
 hobbies:
@@ -91,15 +92,6 @@ hobbies:
     </td>
   </tr>
   <tr>
-    <td>Data Science</td>
-    <td>
-      <a href=""><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="40" height="40"/></a>
-      <a href=""><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40" height="40"/></a>
-      <a href=""><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40" height="40"/></a>
-      <a href=""><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="40" height="40"/></a>
-    </td>
-  </tr>
-  <tr>
     <td>Databases/Datastores</td>
     <td>
       <a href=""><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40"/></a>
@@ -111,6 +103,15 @@ hobbies:
       <a href=""><img src="" width="40" height="40"/></a>
     </td>
   </tr> -->
+    <tr>
+    <td>Data Science</td>
+    <td>
+      <a href=""><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="40" height="40"/></a>
+      <a href=""><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40" height="40"/></a>
+      <a href=""><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40" height="40"/></a>
+      <a href=""><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="40" height="40"/></a>
+    </td>
+  </tr>
     <tr>
     <td>IDEs</td>
     <td>
