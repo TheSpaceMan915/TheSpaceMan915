@@ -59,8 +59,8 @@ currently_learning: ["Spring", "Docker", "Bash"]
 2023 goals:
   [
     "Create the Foundation of a New Project,
-    "Learn more about OS-level Virtualization",
-    "Learn basic bash commands"
+    "Learn More About OS-Level Virtualization",
+    "Learn Basic Bash Commands"
   ]
 
 hobbies:
