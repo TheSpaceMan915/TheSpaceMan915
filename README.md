@@ -26,9 +26,9 @@
 ```yaml
 name: Kolychev Nikita
 
-located_in: Australia, Sydney
+located_in: Sydney, Australia
 
-company: SpaceMan Cooperation
+company: TheSpaceMan Corporation
 
 current_job: Junior Software Engineer
 
