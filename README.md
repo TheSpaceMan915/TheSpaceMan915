@@ -85,7 +85,7 @@ hobbies:
   <tr>
     <td>SysOps</td>
     <td>
-      <a href=""><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" width="40" height="40"/></a>
+      <a href=""><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40"/></a>
     </td>
   </tr>
   <tr>
