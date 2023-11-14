@@ -144,26 +144,15 @@ hobbies:
 
 <p>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=TheSpaceMan915"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheSpaceMan915&layout=compact&hide=jupyter%20notebook,html,css,c%23#"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheSpaceMan915&layout=compact&hide=jupyter%20notebook,html,css"/>
 </p>
 <p>
   <img src="https://github-readme-stats.vercel.app/api?username=TheSpaceMan915&count_private=true&show_icons=true"/>
 </p>
 
-<!-- ### Hi there 👋
-
+<!--
 <a href=""><img src="" width="40" height="40"/></a>
 
-                                        
-
-# Let's connect and have a chat!![chat icon](https://cdn3.iconfinder.com/data/icons/linecons-free-vector-icons-pack/32/bubble-512.png)
-
-### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=TheSpaceMan915&theme=dark&background=000000)](https://git.io/streak-stats)<br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TheSpaceMan915&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
--->
-
-<!--
 **TheSpaceMan915/TheSpaceMan915** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
