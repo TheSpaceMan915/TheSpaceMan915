@@ -54,13 +54,14 @@ fields_of_interests:
     "DevOps"
   ]
  
-currently_learning: ["Spring", "Docker", "Bash"]
+currently_learning: ["Spring", "Docker", "Data Structures and Algorithms"]
 
-2023 goals:
+2024 goals:
   [
-    "Create the Foundation of a New Project,
+    "Add New Functionality to the Project that I'm Working on,
+    "Improve my Knowledge of Data Structures and Algorithms"
     "Learn More About OS-Level Virtualization",
-    "Learn Basic Bash Commands"
+    "Learn How to Dockerize a Spring Boot Application"
   ]
 
 hobbies:
